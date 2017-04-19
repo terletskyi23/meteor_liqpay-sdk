@@ -1,6 +1,6 @@
 {
   "name": "meteor_liqpay-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Npm wrapper for the official LiqPay SDK",
   "main": "liqpay/lib/liqpay.js",
   "license": "MIT",
