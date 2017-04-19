@@ -1,0 +1,28 @@
+{
+  "name": "meteor_liqpay-sdk",
+  "version": "1.0.0",
+  "description": "Npm wrapper for the official LiqPay SDK",
+  "main": "liqpay/lib/liqpay.js",
+  "license": "MIT",
+  "keywords": [
+    "liqpay",
+    "meteor",
+    "sdk",
+    "api"
+  ],
+  "author": " <terletskyi23@gmail.com>",
+  "dependencies": {
+    "request": "2.80.x"
+  },
+  "homepage": "https://github.com/AntuanKhanna/liqpay-sdk#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terletskyi23/meteor_liqpay-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/terletskyi23/meteor_liqpay-sdk/issues"
+  }
+}
