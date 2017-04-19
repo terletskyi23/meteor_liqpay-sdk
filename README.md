@@ -1,6 +1,6 @@
 # meteor_liqpay-sdk
 
-Just copied Liqpay SDK npm wrapper([AntuanKhanna/liqpay-sdk]) without 'crypto' dependency https://github.com/AntuanKhanna/liqpay-sdk
+Just copied Liqpay SDK npm wrapper([AntuanKhanna/liqpay-sdk]) without 'crypto' dependency
 
 
 Please note that the version specified in `package.json` file
